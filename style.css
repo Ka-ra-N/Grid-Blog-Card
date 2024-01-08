@@ -20,7 +20,7 @@ p {
 }
 #main-body {
   width: 100%;
-  min-height: calc(100vh - 24px)
+  min-height: calc(100vh - 24px);
   display: flex;
   justify-content: center;
   align-items: center;
